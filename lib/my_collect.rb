@@ -4,5 +4,4 @@ i = 0
     yield(array[i])
     i += 1
   end
-return yield
 end
